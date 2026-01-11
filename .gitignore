@@ -2,3 +2,13 @@ best_model_binary_e5.pth
 best_model_instance_e20.pth
 best_model_binary_e20.pth
 best_model_instance_e20_dropout.pth
+binary_result.jpg
+binary_result_2.jpg
+binary_result_3.jpg
+binary_result_4.jpg
+binary_result_5.jpg
+instance_result.jpg
+instance_result_2.jpg
+instance_result_3.jpg
+instance_result_4.jpg
+
